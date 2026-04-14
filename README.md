@@ -34,13 +34,13 @@ Compile the engine from source using `gcc`.
 > **Architectural Note:** We intentionally omit the `-lcglm` linker flag and rely entirely on the header-only implementation of `cglm`. This completely bypasses a known `glibc`/IFUNC dynamic linker segmentation fault prevalent on rolling-release distributions.
 
 ```bash
-gcc main.c glad.c -I./include -o dark_architect -lglfw -lGL -lm
+gcc main.c glad.c -I./include -o engine -lglfw -lGL -lm
 ```
 
 ### 3. Execution
 Ensure the `stars.csv` (Yale Bright Star Catalog) is located in the project's root directory.
 ```bash
-./dark_architect
+./engine
 ```
 
 ## 🎮 Controls
