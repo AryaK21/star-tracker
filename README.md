@@ -2,7 +2,7 @@
 # 🌌 The Star Tracker
 > A High-Performance, GPU-Accelerated Celestial Engine & N-Body Simulator built in pure C.
 
-**The Dark Architect** is a capstone-level systems engineering project that simulates large-scale stellar mechanics. It parses real-world astronomical datasets, translates absolute space into local coordinates via spherical trigonometry, and renders thousands of stars in real-time using a custom OpenGL pipeline. It is architected as a scalable foundation for high-performance computing (HPC) and advanced physics research.
+**The Star Tracker** is a capstone-level systems engineering project that simulates large-scale stellar mechanics. It parses real-world astronomical datasets, translates absolute space into local coordinates via spherical trigonometry, and renders thousands of stars in real-time using a custom OpenGL pipeline. It is architected as a scalable foundation for high-performance computing (HPC) and advanced physics research.
 
 ## ✨ Features
 
