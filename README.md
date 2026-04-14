@@ -53,7 +53,7 @@ Ensure the `stars.csv` (Yale Bright Star Catalog) is located in the project's ro
 - [x] **Phase 2: The Planetarium Math** - Spherical trigonometry and Absolute-to-Relative coordinate translation.
 - [x] **Phase 3: Real-Time Visualization** - OpenGL context generation, 3D Camera matrices, and environment shaders.
 - [ ] **Phase 4: High-Performance Computing (HPC)** - Implementing a recursive Barnes-Hut Octree to transition from static rendering to $O(N \log N)$ mutual gravitational physics.
-- [ ] **Phase 5: Research Extensions** - Modeling Self-Interacting Dark Matter (SIDM) and PySR (Symbolic Regression) integration.
+- [ ] **Phase 5: Research Extensions** - Modeling Self-Interacting Dark Matter (SIDM) .
 
 ---
 **Author:** Arya Kukkadwal  
